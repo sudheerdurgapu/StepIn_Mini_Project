@@ -24,11 +24,12 @@ PS No. |           Name           |     Features     | Issuess Raised |Issues Re
 291744 | Tadiboyina Murali Krishna| Feature A, B etc |      X No      |     X No      |    X No     |X No     
 
 ## Challenges Faced and How Was It Overcome
-
-1. ABC
-2. BCD
-3. ...
-4. ...
+Feature_id |         Description
+-----------|-----------------------------------------------------------
+F1         | we can save data to file if only new data is added
+F2         | update data in the list 
+F3         | Data will be saved automatically when updated
+F4         | We can delete for update the data when ever needed
 
 ## Learning Resources
 1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
