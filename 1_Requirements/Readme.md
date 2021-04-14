@@ -47,7 +47,8 @@ This application can useful for informing the details for organisation.
 
 # Detail requirements
 ## High Level Requirements:
- ID---|-----------Description-------------|-Status-(Implemented/Future)
+ ID   |           Description             | Status (Implemented/Future)
+ -----|-----------------------------------|----------------------------
  HR01 | user can add new employee details | Implemented
  HR02 | user can list the details entered | Implemented
  HR03 | user can modify his own details   | Implemented
