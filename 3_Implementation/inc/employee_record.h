@@ -4,12 +4,6 @@
 #include <stdlib.h>
 #include <stdio_ext.h>
 
-
-/**
-*  adds the operand1 and operand2 and returns the result
-* @param[in] operand1 
-* @return feild
-*/
 void add( void );
 void delete(void);
 void modify(void);
