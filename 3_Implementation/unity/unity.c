@@ -151,7 +151,6 @@ void UnityPrint(const char* string)
 void UnityPrintLen(const char* string, const UNITY_UINT32 length)
 {
     const char* pch = string;
-
     if (pch != NULL)
     {
         while (*pch && ((UNITY_UINT32)(pch - string) < length))
